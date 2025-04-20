@@ -5,4 +5,4 @@ and I felt that I needed to learn more in the technology field so I went back to
 I graduated. I recently went to Rapid City, South Dakota in March for AIHEC and I placed 3rd in the indivdual Web Page Design which made me feel more confident in what I can accomplsih moving forward.
 ## Contact Information
 + [Email](jason.slick@tocc.edu)
-+ [LinkedIn](www.linkedin.com/in/jason-slick-2449441a3)
++ [LinkedIn](http://www.linkedin.com/in/jason-slick-2449441a3)
