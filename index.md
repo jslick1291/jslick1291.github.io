@@ -4,3 +4,4 @@ My name is Jason Slick, and I am a San Carlos Apache who is from San Carlos, Ari
 ## Contact Information
 + [Email](http://www.gmail.com.jason.slick@tocc.edu)
 + [LinkedIn](http://www.linkedin.com/in/jason-slick-2449441a3)
++ [GitHub](https://github.com/jslick1291/jslick1291.github.io)
